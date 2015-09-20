@@ -5,7 +5,7 @@ class PyBot(object):
 
     
     def __init__(self):
-        self.__emoji = "smiling_imp"
+        self.__emoji = ":smiling_imp:"
         self.__bot_name = "PyBot"
         self.__default_channel = "#random"
         self.URL = "https://hooks.slack.com/services/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"
